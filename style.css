@@ -1,0 +1,130 @@
+span {
+    color: orange;
+}
+
+.explore-button {
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: orangered;
+    font-weight: 700;
+    color: white;
+    border-radius: 10px;
+}
+
+.img-pro img {
+    height: 300px;
+    weight: 300px;
+}
+
+.flexible-container {
+    display: flex;
+
+}
+
+body {
+    margin: 30px 90px 20px;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+.mid-perfect img {
+    height: 100px;
+    weight: 100px;
+}
+
+.mission {
+    background-color: #4F9DA6;
+    border-radius: 10px;
+    margin-right: 20px;
+    padding: 10px 10px 10px;
+}
+
+.vision {
+    background-color: #FF5959;
+    border-radius: 10px;
+    margin-right: 20px;
+    padding: 10px 10px 10px;
+}
+
+.Goals {
+    background-color: #FFF4D6;
+    border-radius: 10px;
+    margin-right: 20px;
+    padding: 10px 10px 10px;
+
+}
+
+.flexible-container2 {
+    display: flex;
+    padding: 10px 10px 10px;
+    margin-top: 30px;
+
+}
+
+section img-thirdsec img {
+    height: 100px;
+    weight: 100px;
+}
+
+.flexible-container3 {
+    display: flex;
+    margin-top: 100px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 16%;
+    background-position: left;
+
+
+}
+
+.flexible-containerf {
+    margin-top: 100px;
+}
+
+.third-text {
+   
+}
+
+.doc-button {
+    text-decoration: none;
+    padding: 10px 50px;
+    background-color: orangered;
+    font-weight: 700;
+    color: white;
+    border-radius: 10px;
+
+}
+
+.img-pro2 img {
+    height: 300px;
+    weight: 300px;
+    margin: 0px 50px;
+}
+.img-5 img{
+    height: 300px;
+    weight: 300px;
+}
+.fouth{
+    display: flex;
+    margin-top: 100px;
+    
+}
+.flexible-container4 {
+    display: flex;
+    margin-left: 100px;
+    
+
+}
+.img-pro5 img {
+    height: 400px;
+    weight: 400px;
+    margin: 0px 50px;
+}
+footer{
+    background-color: black;
+    color: white;
+    background-size: large;
+}
+footer p{
+    font-weight: 50;
+}
